@@ -1,0 +1,20 @@
+
+
+#vertical-ticker{
+	height:267px;
+	overflow:hidden;
+	margin:17px 0 15px 0; padding:0;
+}
+
+#vertical-ticker li{
+		padding:0 0;
+		display:block;
+		color:#333;
+		text-align:left;
+		font-size:12px;
+		font-family:Arial, Helvetica, sans-serif;
+		margin:0 0 30px 0;
+		width:100%
+}
+	
+	

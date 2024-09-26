@@ -1,0 +1,435 @@
+@media only screen and (min-width:980px) and (max-width:1170px) {
+
+.topmenu li a {font-size: 14px; padding: 0 14px;}
+
+#portamento_container #header3.fixed .topmenu {width: 980px; text-align:center;}
+.imgr {
+    float: left;
+    margin: 0 27px 10px 0;
+    width: 100%;
+}
+.probox:hover .dh {font-size: 16px; line-height: 120px;}
+#example-one .nav li a {font-size: 13px !important;  padding: 9px 10px !important;}
+
+.iso {padding: 39px 0 0;}
+.callt {
+    margin: -7px 0 5px;
+    padding-top: 0;
+}
+.sicon {margin: 0 0 6px 8px;}
+#portamento_container #header3.fixed .topmenu li a {
+    padding: 0 13px !important;
+}
+.topmenu li a {padding: 0 13px !important;}
+#portamento_container #header3.fixed .topmenu li>ul li a {padding:3px 0 0 30px !important;}
+.topmenu li>ul li a {padding:3px 0 0 30px !important;}
+
+.pbi span { font-size:14px;}
+.pbi a {  font-size:14px;}
+.pbi {margin: 0 10px 0 0;}
+.ad1 {height: auto;}
+.pbr {height: 172px;}
+.pbr {
+    height: 226px;
+    padding: 10px;
+}
+
+}
+
+
+@media only screen and (min-width:768px) and (max-width:979px) {
+
+/*===== menu css ==============*/
+
+#horiz-menu li .link span {padding: 0px 17px 0px 17px !important;}
+#top-menu {display:none;}
+
+#tab-top-menu {display: block;}
+#mobileToolbar {display: none;}
+#tab-top-location {display:block;}
+
+#mobileToolbar {
+    display: none;
+    float: left;
+    margin-top: 50px;
+    position: relative;
+    width: 100%;
+    z-index: 9999;
+	margin:0 0 0 0 !important;
+	text-align:right;
+}
+
+
+#tab-top-menu {
+    display: block !important;
+    float: right;
+    height: 30px;
+    left: 0;
+    margin: 0 auto !important;
+    padding: 0;
+    right: 0;
+    text-align: left;
+    width: auto;
+    margin: 10px 15px 0 0;
+}
+#tab-top-menu .tab_menu {font-family: 'Open Sans', sans-serif;font-size:20px;font-style: normal;font-weight: normal;color: #000;text-decoration: none;text-transform: uppercase;cursor:pointer;padding: 0 0px 0 0px; display: block; height: 45px; line-height: 45px; width:100%; text-align:center; left:0; right:0; margin:0 auto; background: url("../images/responsive_menu_icon.html") right center no-repeat;}
+
+.header.smaller .tab_menu {font-family: 'Open Sans', sans-serif;font-size:20px;font-style: normal;font-weight: normal;color: #000;text-decoration: none;text-transform: uppercase;cursor:pointer;padding: 0 0px 0 0px; display: block; height: 32px !important; line-height: 32px !important; width:100%; text-align:center; left:0; right:0; margin:0 auto; background: url("../images/responsive_menu_icon.html") right center no-repeat;}
+
+#tab-top-menu a.tab_menu:hover {color: #1e753e;text-decoration: none; background: url("../images/responsive_menu_over.html") right center no-repeat; transition: all 0.3s ease 0s; -webkit-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s;}
+#tab-top-location {width: 140px;height: 50px;text-align: left; margin-top:4px; padding: 0px 0px 0 0px; display: block; float: right; display:block !important;}
+#tab-top-location .tab_location {font-family: 'Open Sans', sans-serif; font-size:23px;font-style: normal;font-weight: normal;color: #fff;text-decoration: none;text-transform: uppercase;cursor:pointer; padding: 0 0px 0 25px; display: block; height: 50px; line-height: 50px; width:120px; background: url("../images/responsive_location_icon.html") left center no-repeat;}
+#tab-top-location a.tab_location:hover {color: #31C7E0;text-decoration: none; background: url("../images/responsive_location_over.html") left center no-repeat; transition: all 0.3s ease 0s; -webkit-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s;}
+
+.mobile-nav {display:none;}
+#top-menu-contener{display:block; background:url(../images/menu-bg-repeat.html) center top repeat-x;}
+
+#mobileToolbar {
+    margin: 45px 0 0 0 !important;
+    width: 100% !important;
+}
+/*===== menu css ==============*/
+
+.topmenu{display:none;}
+#tab-top-menu {margin: 0 19px 20px 0 !important; float:left !important;}
+.social {
+    float: right;
+    margin: 15px 0 0 0;
+    padding: 0;
+}
+.flag {margin: 0 70px 0 0;}
+
+#portamento_container #header3.fixed #tab-top-menu{margin:0px 19px 0 0 !important;}
+
+#portamento_container #header3.fixed #mobileToolbar {
+    margin: 35px 0 0 !important;
+    width: 100% !important;
+}
+
+#vertical-ticker {height: 270px !important;}
+.imgr {margin: 0 50px 10px 30px;}
+.probox:hover .dh {font-size: 16px; line-height: 120px;}
+#example-one .nav li a {font-size: 13px !important;  padding: 9px 10px !important;}
+.flinks {margin: 0 0 19px;}
+.flinks li a {line-height: 30px; padding: 0 15px;}
+.owl-theme .owl-controls {margin-bottom: 25px !important;}
+.formtrans {padding: 23px 23px 60px;}
+#portamento_container #header3.fixed #mobileToolbar ul li>ul {margin: 0 0 0 !important;}
+
+.callt {
+    font-size: 15px;
+    margin-bottom: 7px;
+    margin-top: -7px;
+    padding-top: 0;
+}
+.sicon {margin: 0 0 5px 8px;}
+/*.bannerarea {margin: -30px 0 -23px 0;}*/
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+@media only screen and (min-width:320px) and (max-width:767px) {
+#portamento_container #header3.fixed {
+    margin: 0 0 0 0;
+    padding: 0 0;
+    position: initial !important;
+    width: 100%;
+    height: 41px;
+    left: 0;
+    right: 0;
+    background: #fff;
+    box-shadow: 1px 1px 3px #999999;
+}
+/*===== menu css ==============*/
+
+#horiz-menu li .link span {padding: 0px 17px 0px 17px !important;}
+#top-menu {display:none;}
+
+#tab-top-menu {display: block;}
+#mobileToolbar {display: none;}
+#tab-top-location {display:block;}
+
+#mobileToolbar {
+    display: none;
+    float: left;
+    position: absolute !important;
+    width: 100%;
+    z-index: 9999;
+	text-align:right;
+}
+
+#mobileToolbar ul {margin:0 0 0 0 !important;}
+
+#tab-top-menu {width:auto; float:left; height: 30px; text-align:left; margin-top:4px; padding: 0px 0px 0 10px; display: block !important; margin:0 auto !important; left:0; right:0; z-index:40000; position:relative;}
+#tab-top-menu .tab_menu {font-family: 'Open Sans', sans-serif;font-size:16px;font-style: normal;font-weight: normal;color: #000;text-decoration: none;text-transform: uppercase;cursor:pointer;padding: 0 0px 0 0px; display: block; height: 33px; line-height: 33px; width:100%; text-align:center; left:0; right:0; margin:-50px 0; background: url("../images/responsive_menu_icon.html") right center no-repeat;}
+
+#portamento_container #header3.fixed #tab-top-menu .tab_menu {font-family: 'Open Sans', sans-serif;font-size:16px;font-style: normal;font-weight: normal;color: #000;text-decoration: none;text-transform: uppercase;cursor:pointer;padding: 0 0px 0 0px; display: block; height: 33px; line-height: 33px; width:100%; text-align:center; left:0; right:0; margin:-5px 0; background: url("../images/responsive_menu_icon.html") right center no-repeat;}
+
+.header.smaller .tab_menu {font-family: 'Open Sans', sans-serif;font-size:20px;font-style: normal;font-weight: normal;color: #000;text-decoration: none;text-transform: uppercase;cursor:pointer;padding: 0 0px 0 0px; display: block; height: 32px !important; line-height: 32px !important; width:100%; text-align:center; left:0; right:0; margin:0 auto; background: url("../images/responsive_menu_icon.html") right center no-repeat;}
+
+#tab-top-menu a.tab_menu:hover {color: #1e753e;text-decoration: none; background: url("../images/responsive_menu_over.html") right center no-repeat; transition: all 0.3s ease 0s; -webkit-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s;}
+#tab-top-location {width: 140px;height: 50px;text-align: left; margin-top:4px; padding: 0px 0px 0 0px; display: block; float: right; display:block !important;}
+#tab-top-location .tab_location {font-family: 'Conv_HelveticaNeue-LightCond'; font-size:23px;font-style: normal;font-weight: normal;color: #fff;text-decoration: none;text-transform: uppercase;cursor:pointer; padding: 0 0px 0 25px; display: block; height: 50px; line-height: 50px; width:120px; background: url("../images/responsive_location_icon.html") left center no-repeat;}
+#tab-top-location a.tab_location:hover {color: #31C7E0;text-decoration: none; background: url("../images/responsive_location_over.html") left center no-repeat; transition: all 0.3s ease 0s; -webkit-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s;}
+
+.mobile-nav {display:none;}
+#top-menu-contener{display:block; background:url(../images/menu-bg-repeat.html) center top repeat-x;}
+
+
+#mobileToolbar {
+    width: 100% !important;
+	margin:0 auto !important;
+
+}
+
+/*===== menu css ==============*/
+
+.jSlider {position: relative !important; margin-left:0 !important; margin-bottom:0 !important;}
+.social {margin: 0 0 0 0 !important;}
+
+.belowb {line-height: 40px;
+padding:10px 0;
+	height:auto;
+}
+.servb { margin-bottom:25px;}
+.imgr {
+    float: right;
+    margin:0;
+}
+
+.flinks {margin: 0 0 19px;}
+.flinks li a {line-height: 30px; padding: 0 15px;}
+.owl-theme .owl-controls {margin-bottom: 25px !important;}
+.m1{margin-top:30px;}
+.fb{text-align:center; margin-top:15px;}
+.logo{margin-bottom:0px;}
+.tlink {margin: 0 0 13px;}
+
+#portamento_container #header3.fixed #tab-top-menu{margin: 2px 19px 0 0 !important; float:left;}
+
+#portamento_container #header3.fixed #mobileToolbar {
+    margin: 35px 0 0 !important;
+    width: 100% !important;
+}
+.topmenu{display:none;}
+#mobileToolbar ul {margin: 0 0 0 !important;}
+#portamento_container #header3.fixed #mobileToolbar ul {margin: 6px 0 0 !important;}
+.servmenu li a {font-size: 15px; padding: 0 20px;}
+
+#portamento_container #header3.fixed #mobileToolbar ul li>ul {margin: 0 0 0 !important;}
+#mobileToolbar ul li>ul {margin: 0 0 0 !important;}
+
+.hr1 {
+    color: #233384;
+    float: right;
+    font-size: 13px;
+    margin-top: 17px;
+    text-align: right;
+}
+.flag img{
+	width:50px;
+	height:auto;
+}
+.flag {margin: 0 10px 0 0;}
+.social br{display:none;}
+.social img {margin: 7px 2px 10px 0;}
+
+.social{padding:0 0 0 5px; text-align:left;}
+
+
+.iso {
+    font-size: 16px;
+    margin: -10px 0 0;
+    padding: 0 0 0 20px;
+    text-align: left;
+}
+.sicon {margin: -10px 0 7px 3px;}
+.callt {
+    font-size: 15px;
+    margin: -4px 0 0;
+    padding-top: 0;
+}
+.sinput {width: 85%;}
+.bannerarea {margin: -28px 0 -25px 0;}
+#tab-top-menu .tab_menu img{margin-top:5px;}
+h1 {font-size: 30px;}
+.pbi {margin: 0 0 15px 0;}
+.ad1{height:auto;}
+.pbr {height: 226px; padding: 0 8px 8px;}
+.fbg {padding: 50px 0 0;}
+
+.cally {text-align:center;}
+.flinks { text-align:center;}
+.flinks li{border:0;}
+
+.fbl{ text-align:center; line-height:20px; margin-bottom:10px;}
+.fb2{text-align:center; line-height:20px;}
+
+/*===== menu css ==============*/
+.grid li {width: 100% !important;}
+.f-box2{font-size:35px;}
+.f-box2 .rate {font-size: 43px;}
+}
+
+
+
+@media only screen and (max-width:320px) {
+#portamento_container #header3.fixed {
+    margin: 0 0 0 0;
+    padding: 0 0;
+    position: initial !important;
+    width: 100%;
+    height: 41px;
+    left: 0;
+    right: 0;
+    background: #fff;
+    box-shadow: 1px 1px 3px #999999;
+}
+/*===== menu css ==============*/
+
+#horiz-menu li .link span {padding: 0px 17px 0px 17px !important;}
+#top-menu {display:none;}
+
+#tab-top-menu {display: block;}
+#mobileToolbar {display: none;}
+#tab-top-location {display:block;}
+
+#mobileToolbar {
+    display: none;
+    float: left;
+    position: absolute !important;
+    width: 100%;
+    z-index: 9999;
+	text-align:right;
+}
+
+#mobileToolbar ul {margin:0 0 0 0 !important;}
+
+#tab-top-menu {width:auto; float:left; height: 30px; text-align:left; margin-top:4px; padding: 0px 0px 0 10px; display: block !important; margin:0 auto !important; left:0; right:0; z-index:40000; position:relative;}
+#tab-top-menu .tab_menu {font-family: 'Open Sans', sans-serif;font-size:16px;font-style: normal;font-weight: normal;color: #000;text-decoration: none;text-transform: uppercase;cursor:pointer;padding: 0 0px 0 0px; display: block; height: 33px; line-height: 33px; width:100%; text-align:center; left:0; right:0; margin:0 auto; background: url("../images/responsive_menu_icon.html") right center no-repeat;}
+
+
+.header.smaller .tab_menu {font-family: 'Open Sans', sans-serif;font-size:20px;font-style: normal;font-weight: normal;color: #000;text-decoration: none;text-transform: uppercase;cursor:pointer;padding: 0 0px 0 0px; display: block; height: 32px !important; line-height: 32px !important; width:100%; text-align:center; left:0; right:0; margin:0 auto; background: url("../images/responsive_menu_icon.html") right center no-repeat;}
+
+#tab-top-menu a.tab_menu:hover {color: #1e753e;text-decoration: none; background: url("../images/responsive_menu_over.html") right center no-repeat; transition: all 0.3s ease 0s; -webkit-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s;}
+#tab-top-location {width: 140px;height: 50px;text-align: left; margin-top:4px; padding: 0px 0px 0 0px; display: block; float: right; display:block !important;}
+#tab-top-location .tab_location {font-family: 'Conv_HelveticaNeue-LightCond'; font-size:23px;font-style: normal;font-weight: normal;color: #fff;text-decoration: none;text-transform: uppercase;cursor:pointer; padding: 0 0px 0 25px; display: block; height: 50px; line-height: 50px; width:120px; background: url("../images/responsive_location_icon.html") left center no-repeat;}
+#tab-top-location a.tab_location:hover {color: #31C7E0;text-decoration: none; background: url("../images/responsive_location_over.html") left center no-repeat; transition: all 0.3s ease 0s; -webkit-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s;}
+
+.mobile-nav {display:none;}
+#top-menu-contener{display:block; background:url(../images/menu-bg-repeat.html) center top repeat-x;}
+
+
+#mobileToolbar {
+    width: 100% !important;
+	margin:0 auto !important;
+
+}
+
+/*===== menu css ==============*/
+
+.jSlider {position: relative !important; margin-left:0 !important; margin-bottom:0 !important;}
+.social {margin: 0 0 0 0 !important;}
+
+.belowb {line-height: 40px;
+padding:10px 0;
+	height:auto;
+}
+.servb { margin-bottom:25px;}
+.imgr {
+    float: right;
+    margin:0;
+}
+
+.flinks {margin: 0 0 19px;}
+.flinks li a {line-height: 30px; padding: 0 15px;}
+.owl-theme .owl-controls {margin-bottom: 25px !important;}
+.m1{margin-top:30px;}
+.fb{text-align:center; margin-top:15px;}
+.logo{margin-bottom:0px;}
+.tlink {margin: 0 0 13px;}
+
+#portamento_container #header3.fixed #tab-top-menu{margin: 2px 0px 0 10px !important; float:left;}
+
+#portamento_container #header3.fixed #mobileToolbar {
+    margin: 35px 0 0 !important;
+    width: 100% !important;
+}
+.topmenu{display:none;}
+#mobileToolbar ul {margin: 0 0 0 !important;}
+#portamento_container #header3.fixed #mobileToolbar ul {margin: 6px 0 0 !important;}
+.servmenu li a {font-size: 15px; padding: 0 20px;}
+
+#portamento_container #header3.fixed #mobileToolbar ul li>ul {margin: 0 0 0 !important;}
+#mobileToolbar ul li>ul {margin: 0 0 0 !important;}
+
+.hr1 {
+    color: #233384;
+    float: right;
+    font-size: 13px;
+    margin-top: 17px;
+    text-align: right;
+}
+.flag img{
+	width:50px;
+	height:auto;
+}
+.flag {margin: 0 10px 0 0;}
+.social br{display:none;}
+.social img {margin: 7px 2px 10px 0;}
+
+.social{padding:0 0 0 5px; text-align:left;}
+
+
+.iso {
+    font-size: 16px;
+    margin: -10px 0 0;
+    padding: 0 0 0 20px;
+    text-align: left;
+}
+.sicon {margin: -10px 0 7px 3px;}
+.callt {
+    font-size: 15px;
+    margin: -4px 0 0;
+    padding-top: 0;
+}
+.sinput {width: 84%;}
+.bannerarea {margin: -28px 0 -25px 0;}
+#tab-top-menu .tab_menu img{margin-top:5px;}
+h1 {font-size: 30px;}
+.pbi {margin: 0 0 15px 0;}
+.ad1{height:auto;}
+.pbr {height: 226px; padding: 0 8px 8px;}
+.fbg {padding: 50px 0 0;}
+
+.cally {text-align:center;}
+.flinks { text-align:center;}
+.flinks li{border:0;}
+
+.fbl{ text-align:center; line-height:20px; margin-bottom:10px;}
+.fb2{text-align:center; line-height:20px;}
+
+
+.f-box {width: 250px; margin-right:30px; font-size:35px;} 
+
+
+.grid li {width: 100% !important;}
+.f-box2{font-size:35px;}
+.f-box2 .rate {font-size: 43px;}
+
+}
+
+

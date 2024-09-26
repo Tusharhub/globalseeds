@@ -1,0 +1,122 @@
+
+#mobileToolbar { z-index: 9999;  display: none; float:left; width:100%; left:0; right:0; /*margin-top:45px */ margin:0; !important; position:absolute;}
+.header.smaller #mobileToolbar { z-index: 9999;  display: none; float:left; width:100%; left:0; right:0; margin-top:35px !important; position:absolute;}
+#mobileToolbar div { margin: 0px 0 0 0; position: relative; width: 100%;}
+#mobileToolbar ul{ margin:0; padding: 0; background-color: #fff; text-align: left; font-size: 18px; line-height: 20px; font-family:'open sans semibold',Arial; font-weight: 100; }
+#mobileToolbar ul li { border-top: 1px solid #128945; background:;}
+#mobileToolbar ul li a { padding: 6px 15px; color: #fff !important; text-decoration: none !important; display: block; background: #04622c;  url(../images/arrow.png) 97% center no-repeat !important; position: relative; -webkit-tap-highlight-color: rgba(0,0,0,0); font-size:13px; font-family:'open sans semibold',Arial; }
+
+
+#mobileToolbar ul li a:hover { padding: 6px 15px; color: #fff !important; text-decoration: none !important; display: block; background: #04622c; url(../images/arrow-hover.html) 97% center no-repeat; position: relative; -webkit-tap-highlight-color: rgba(0,0,0,0); }
+
+.mob-subspace{padding-left:50px !important; width:auto; color:#f6cec1 !important;}
+
+#mobileToolbar ul li:last-child { border-bottom: none; }
+#mobileToolbar ul li a:after { font-family:'open sans semibold',Arial; position: absolute; top: 11px; right: 15px; font-size: 20px; font-size: 24px; }
+#mobileToolbar ul li ul { text-align: left; font-size: 15px; line-height: 20px; font-weight: 200; left:0 !important; position:relative; }
+#mobileToolbar ul li ul li {  border-top:none; }
+#mobileToolbar ul li ul li span { padding: 0 0 0 0; }
+#mobileToolbar ul li ul li:last-child { border-bottom: none; }
+#mobileToolbar ul li ul li a { padding: 6px 15px; color: #fff !important; text-decoration: none !important; display: block; background: #333 !important; font-family:'open sans semibold',Arial;}
+#mobileToolbar ul li ul li a:hover { padding: 6px 15px; color: #fff !important; text-decoration: none !important; display: block; background:#333 !important; font-family:'open sans semibold',Arial;}
+#mobileToolbar ul li ul li a:after {  background:url(../images/downArrow.html) right no-repeat !important; color: #666; }
+#mobileToolbar ul li ul li ul li a { padding: 11px 45px; color: #fff !important; text-decoration: none !important; display: block; background: #995DAB !important; font-family:'open sans semibold',Arial;}
+#mobileToolbar ul li ul li ul li a:hover { padding: 11px 45px; color: #fff !important; text-decoration: none !important; display: block; background: #f05322 !important; font-family:'open sans semibold',Arial;}
+.meetdr {
+	background:url(../images/meet_btn.html) no-repeat;
+	height:31px;
+	width:152px;
+	margin:0px;
+	border:0px;
+	text-align:center;
+	cursor:pointer;
+	margin-bottom:10px;
+}
+.meetdr:hover {
+	background:url(../images/meet_btn_hover.html) no-repeat;
+	height:31px;
+	width:152px;
+	margin:0px;
+	border:0px;
+	text-align:center;
+	cursor:pointer;
+	margin-bottom:10px;
+}
+
+.requestconsult {
+	background:url(../images/request_btn.html) no-repeat;
+	height:31px;
+	width:152px;
+	margin:0px;
+	border:0px;
+	text-align:center;
+	cursor:pointer;
+	margin-bottom:10px;
+}
+.requestconsult:hover {
+	background:url(../images/request_btn_hover.html) no-repeat;
+	height:31px;
+	width:152px;
+	margin:0px;
+	border:0px;
+	text-align:center;
+	cursor:pointer;
+	margin-bottom:10px;
+}
+
+.viewprocedure {
+	background:url(../images/3d_banner.html) no-repeat;
+	height:107px;
+	width:300px;
+	margin:0px;
+	border:0px;
+	text-align:center;
+	cursor:pointer;
+		
+}
+.viewprocedure:hover {
+	background:url(../images/3d_banner_hover.html) no-repeat;
+	height:107px;
+	width:300px;
+	margin:0px;
+	border:0px;
+	text-align:center;
+	cursor:pointer;
+
+}
+.bluebtn {
+	color:#FFFFFF;
+	cursor: pointer;
+	font-size:18px;
+	padding:0 10px 0 10px;
+	margin-bottom:10px;
+	height:40px;
+	line-height:40px;
+	font-family:'GothamExtraLightRegular', Arial;
+	width: auto;
+	background:url(../images/btn_bg.html) no-repeat;
+	text-transform:uppercase;
+	text-decoration:none;
+	border:none;
+}
+.bluebtn:hover {
+	color:#FFFFFF;
+	cursor: pointer;
+	font-size:18px;
+	padding:0 10px 0 10px;
+	margin-bottom:10px;
+	font-family:'GothamExtraLightRegular', Arial;
+	text-transform:uppercase;
+	width: auto;
+	background:url(../images/btn_bg_hover.html) no-repeat;
+	text-decoration:none;
+	border:none;
+}
+#slides {top:0px;left:0px;z-index:100;}
+#footer-contener {width: 100%;text-align: left;margin: 0px auto;background: #424242;}
+
+#mobile_header {display:none;}
+.topheader  {display:none;}
+
+.three_box_int {display:none;}
+#mfooter {display:none;}
